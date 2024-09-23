@@ -18,8 +18,8 @@ function Footer() {
         className="footer_albumLogo"
         src="https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/b5/8b/69/b58b698f-b26f-3cba-1cb3-5fd90d622a76/artwork.jpg/1200x1200bf-60.jpg"  alt=""/>  
         <div className="footer_songInfo"/>
-        <h4>RIHA --</h4> &nbsp;
-        <p>RvD,Rishabh Raijada</p>
+        <h4>Parth --</h4> &nbsp;
+        <p>Parth Bhatia</p>
       </div>
       <div className="footer_center">
         <ShuffleIcon  className="footer_green"/>
